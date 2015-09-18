@@ -7,6 +7,7 @@ java -jar GoEuroTest.jar "CITY_NAME"
 Example:
 
 C:\>java -jar GoEuroTest.jar Berlin
+
 latitude,name,_id,type,longitude
 52.52437,Berlin,376217,location,13.41053
 45.50298,Berlingo,448103,location,10.04366
