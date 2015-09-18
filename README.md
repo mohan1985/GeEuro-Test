@@ -1,6 +1,6 @@
 # GeEuro-Test
 Hi,
-I have done with the program. This will run with following command as specified by you.
+I ame done with the program. This will run with following command as specified by you.
 
 java -jar GoEuroTest.jar "CITY_NAME"
 
